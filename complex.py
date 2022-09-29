@@ -15,4 +15,4 @@ def complex_operation(a, b, operation):
 
 
 # проверка
-# print(complex_operation('1+2j', '3-1j', '*'))
+print(complex_operation('5+2j', '3-1j', '*'))
